@@ -1,0 +1,49 @@
+/* 
+Theme Name: Zerif-lite custom
+Template: zerif-lite
+*/
+
+#main-nav  {
+    background-color: #ffffff;
+}
+
+.purchase-now {
+    display: none;
+}
+
+#ribbon_bottom {
+    display: none;
+}
+
+h5 {
+    color: #ffffff;
+
+}
+
+#main-nav {
+    background-color: #358010;
+}
+
+img {
+    width: 30px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    
+}
+
+.fa {
+    margin-right: 5px;
+}
+
+.team {
+    display: flex;
+    justify-content: space-between;
+}
+
+.focus-box p {
+    margin-left: 45px;
+}

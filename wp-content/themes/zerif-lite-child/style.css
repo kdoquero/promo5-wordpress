@@ -99,3 +99,7 @@ img {
 .comment a {
     color: #ffffff;
 }
+
+.fa-quote-left:before {
+    display: none;
+}

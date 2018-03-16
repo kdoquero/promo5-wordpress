@@ -32,7 +32,7 @@ if ( ( isset( $zerif_ourfocus_show ) && $zerif_ourfocus_show != 1 ) || is_custom
 }
 	/* RIBBON WITH BOTTOM BUTTON */
 ?>	
-	<section class="comment">
+	<section id="comment" class="comment">
 		<div class= "container-why">
 			<div class="container-element">
 				<div>

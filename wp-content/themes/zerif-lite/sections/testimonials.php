@@ -51,7 +51,6 @@ if ( is_active_sidebar( 'sidebar-testimonials' ) ) {
 		printf( __( 'Add widgets in this area by going to the %s', 'zerif-lite' ), sprintf( '<a href="%1$s" class="zerif-default-links">%2$s</a>', esc_url( admin_url( 'customize.php?autofocus&#91;section&#93;=sidebar-widgets-sidebar-testimonials' ) ), __( 'Testimonials section', 'zerif-lite' ) ) );
 	}
 }
-
 				echo '</div>';
 
 			echo '</div>';

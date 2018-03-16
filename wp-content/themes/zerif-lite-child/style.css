@@ -12,7 +12,7 @@ Template: zerif-lite
 }
 
 #ribbon_bottom {
-    display: none;
+    
 }
 
 h5 {
@@ -21,7 +21,7 @@ h5 {
 }
 
 #main-nav {
-    background-color: #358010;
+    background-color: #154e16;
 }
 
 img {
@@ -46,4 +46,48 @@ img {
 
 .focus-box p {
     margin-left: 45px;
+}
+.copyright {
+    display: none;
+}
+
+.comment {
+    height: 80vh;
+    width: 100vw;
+    background-color: #154e16;
+    margin: 0px;
+}
+
+.create {
+    width: 145px;
+    border-radius: 50%;
+    border: 10px solid #ececec;
+}
+
+.container-why {
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.home {
+    display: flex;
+    align-items: center;
+}
+
+.home-image {
+    border-radius: 50%;
+    border: 10px solid #ececec;
+    width: 20vw;
+}
+
+.container-element {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.focus-box .service-icon {
+    border: 10px solid #154e16;
 }

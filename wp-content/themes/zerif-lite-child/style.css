@@ -91,3 +91,11 @@ img {
 .focus-box .service-icon {
     border: 10px solid #154e16;
 }
+
+.testimonial {
+    background-color: #154e16;
+}
+
+.comment a {
+    color: #ffffff;
+}

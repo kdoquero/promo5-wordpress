@@ -103,3 +103,7 @@ img {
 .fa-quote-left:before {
     display: none;
 }
+
+.git-test {
+    color: #ececec;
+}

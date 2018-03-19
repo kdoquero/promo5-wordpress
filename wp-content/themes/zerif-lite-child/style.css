@@ -103,3 +103,32 @@ img {
 .fa-quote-left:before {
     display: none;
 }
+
+.latest-news {
+    padding: 25px;
+    background-color: #154e16;
+
+}
+
+#carousel-homepage-latestnews .carousel-inner .item .latestnews-title a {
+    color: #ffffff;
+}
+
+.latesnews-content p, .latesnews-content {
+    color: #ffffff;
+}
+
+.dark-text {
+    color: #ffffff;
+}
+
+.latesnews-content {
+    word-break: break-all;
+}
+.focus-box p {
+    margin-left: 0px;
+}
+
+.focus-light {
+    color: black;
+}

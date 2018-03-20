@@ -33,7 +33,9 @@ if ( ( isset( $zerif_ourfocus_show ) && $zerif_ourfocus_show != 1 ) || is_custom
 	/* RIBBON WITH BOTTOM BUTTON */
 ?>	
 	<section id="comment" class="comment">
+		<h2 class="dark-text">Comment ?</h2>
 		<div class= "container-why">
+			
 			<div class="container-element">
 				<div>
 					<a href="<?php the_field('creer_du_lien') ?>"><p>google</p></a>
@@ -46,6 +48,7 @@ if ( ( isset( $zerif_ourfocus_show ) && $zerif_ourfocus_show != 1 ) || is_custom
 				
 			</div>
 			<div class="home">
+				
 			<img class="home-image" src="<?php echo get_field('home')['url']; ?>" alt="<?php echo get_field('home')['alt']; ?>">
 			</div>
 			<div class="container-element">

@@ -52,7 +52,7 @@ img {
 }
 
 .comment {
-    height: 80vh;
+    height: 90vh;
     width: 100vw;
     background-color: #154e16;
     margin: 0px;
@@ -120,6 +120,14 @@ img {
 
 .dark-text {
     color: #ffffff;
+    display: inline-block;
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    font-size: 45px;
+    line-height: 40px;
+    text-transform: uppercase;
 }
 
 .latesnews-content {
